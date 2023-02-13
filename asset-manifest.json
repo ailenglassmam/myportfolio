@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ailenglassmam/myportfolio.git/static/css/main.2309fe3b.css",
+    "main.js": "/ailenglassmam/myportfolio.git/static/js/main.11df7ed4.js",
+    "static/media/bannera.jpg": "/ailenglassmam/myportfolio.git/static/media/bannera.982268b1df1869a45fb4.jpg",
+    "static/media/background.png": "/ailenglassmam/myportfolio.git/static/media/background.d779179143059259ea0e.png",
+    "static/media/avatar-2.jpg": "/ailenglassmam/myportfolio.git/static/media/avatar-2.ac0b4685b621f92fe217.jpg",
+    "static/media/avatar.jpg": "/ailenglassmam/myportfolio.git/static/media/avatar.412835caf22016b1cc07.jpg",
+    "static/media/github.svg": "/ailenglassmam/myportfolio.git/static/media/github.efcaf705b5fc130b85ac5cfa46fd1814.svg",
+    "static/media/linkedin.svg": "/ailenglassmam/myportfolio.git/static/media/linkedin.bb608ce346026308f7a4e3ba3bbd69fc.svg",
+    "index.html": "/ailenglassmam/myportfolio.git/index.html",
+    "main.2309fe3b.css.map": "/ailenglassmam/myportfolio.git/static/css/main.2309fe3b.css.map",
+    "main.11df7ed4.js.map": "/ailenglassmam/myportfolio.git/static/js/main.11df7ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2309fe3b.css",
+    "static/js/main.11df7ed4.js"
+  ]
+}
